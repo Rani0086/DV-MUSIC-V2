@@ -357,7 +357,7 @@ async def start_message_private(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/DvisDmBot)
+│           [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/queen143np)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -453,7 +453,7 @@ async def back_to_home_menu(client, query):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/DvisDmBot)
+│               [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/queen143np)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -761,7 +761,7 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/+7ehnJA3aMb84OGNl)**"""
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/ace_off_peace)**"""
             else:
                 caption = f"""**✅ 𝐒ᴛᴀʀᴛᴇᴅ 𝐒ᴛʀᴇᴀᴍɪɴɢ 𝐎ɴ 𝐕ᴄ.**
 
@@ -772,7 +772,7 @@ async def stream_logger(
 **❍ Cʜᴀᴛ Lɪɴᴋ:** {chat_link}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requested_by}
 
-❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @EraVibesXbot"""
+❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @ace_off_peace"""
             try:
                 await bot.send_photo(LOG_GROUP_ID, photo=thumbnail, caption=caption)
             except Exception:
@@ -832,7 +832,7 @@ async def change_stream(chat_id):
 **❍ Sᴛʀᴇᴀᴍ Tʏᴘᴇ ➥ ** {stream_type}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ ** {requested_by}
 
-❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @EraVibesXbot"""
+❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ➛ @ace_off_peace"""
     buttons = InlineKeyboardMarkup(
         [
             [
@@ -1038,7 +1038,7 @@ async def stream_audio_or_video(client, message):
 **❍ Sᴛʀᴇᴀᴍ Tʏᴘᴇ ➥ ** {stream_type}
 **❍ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➥ ** {requested_by}
 
-❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/+7ehnJA3aMb84OGNl)**"""
+❍ 𝖩ᴏɪɴ ➛ **[sᴜᴘᴘᴏꝛᴛ](https://t.me/ace_off_peace)**"""
                 await bot.send_photo(chat_id, thumbnail, caption, reply_markup=buttons)
                 await stream_logger(
                     chat_id, user, title, duration, stream_type, thumbnail, position
@@ -1370,7 +1370,7 @@ async def git_repo_link(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/DvisDmBot)
+│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/queen143np)
 ╰───────────────────⦿"""
     else:
         caption = f"**➻ Hello, {mention}.**"
